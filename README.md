@@ -43,7 +43,7 @@ git pull origin main
 
 ## 📄 Documentation
 
-- [Schematic](Complete_Schematic.pdf)
+- [Schematic](docs/Complete_Schematic.pdf)
 - [Hardware Requirements Specification](docs/requirements.md)
 
 ---
