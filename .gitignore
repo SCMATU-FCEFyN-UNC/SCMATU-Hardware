@@ -1,0 +1,50 @@
+# ============================================
+# KiCad Temporary & Backup Files
+# ============================================
+
+*.tmp
+*.bak
+*.bck
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-cache.lib
+*-rescue.lib
+*-save.pro
+
+# ============================================
+# KiCad Auto-Generated Files
+# ============================================
+
+fp-info-cache
+*.net
+*.xml
+*.rpt
+*.dcm
+*.lst
+
+# ============================================
+# Plot / Manufacturing Outputs
+# (Only ignore if you don't version them)
+# ============================================
+
+/gerbers/
+/plot/
+/output/
+/manufacturing-output/
+
+# ============================================
+# OS Generated Files
+# ============================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Simulation (optional - remove if needed)
+# ============================================
+
+*.raw
+*.log
+*.op.raw
