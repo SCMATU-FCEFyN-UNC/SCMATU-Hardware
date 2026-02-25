@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "16f18446")(type "KiCad")(uri "${KIPRJMOD}/Symbols/16f18446.kicad_sym")(options "")(descr ""))
+  (lib (name "Fast_Comp_sym")(type "KiCad")(uri "${KIPRJMOD}/Symbols/Fast_Comp_sym.kicad_sym")(options "")(descr ""))
+)
